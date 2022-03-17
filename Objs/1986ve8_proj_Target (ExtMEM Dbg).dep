@@ -1,0 +1,41 @@
+Dependencies for Project '1986ve8_proj', Target 'Target (ExtMEM Dbg)': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\Sources\sysinit.c)(0x604F35DD)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\sysinit.o --omf_browse .\objs\sysinit.crf --depend .\objs\sysinit.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+F (.\Sources\main.c)(0x5D412620)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\main.o --omf_browse .\objs\main.crf --depend .\objs\main.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9AE028)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AE02A)
+I (Sources\sysinit.h)(0x5D10DC84)
+I (Sources\eerom.h)(0x5B424CC4)
+I (Sources\mko.h)(0x5B42EC2A)
+I (Sources\adc.h)(0x5B42EC2A)
+I (Sources\wdt.h)(0x5B3454AD)
+I (Sources\uarts.h)(0x5B42E563)
+F (.\Sources\eerom.c)(0x5B341AE9)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\eerom.o --omf_browse .\objs\eerom.crf --depend .\objs\eerom.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+I (Sources\eerom.h)(0x5B424CC4)
+F (.\Sources\wdt.c)(0x5B3454AD)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\wdt.o --omf_browse .\objs\wdt.crf --depend .\objs\wdt.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+F (.\Sources\uarts.c)(0x5D10DE3D)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\uarts.o --omf_browse .\objs\uarts.crf --depend .\objs\uarts.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9AE028)
+I (Sources\wdt.h)(0x5B3454AD)
+F (.\Sources\adc.c)(0x5D407C61)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\adc.o --omf_browse .\objs\adc.crf --depend .\objs\adc.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x5ABB4584)
+I (Sources\1986ve8_lib/core_cm4.h)(0x505B1E02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+I (Sources\adc.h)(0x5B42EC2A)
+F (.\Sources\1986ve8_lib\core_cm4.c)(0x517E45C4)(-c --cpu Cortex-M4 --li -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529"-o .\objs\core_cm4.o --omf_browse .\objs\core_cm4.crf --depend .\objs\core_cm4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AE028)
+F (.\Sources\1986ve8_lib\startup_MDR1986VE8T.s)(0x5ABF193C)(--cpu Cortex-M4 --li -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 529"--list .\objs\startup_mdr1986ve8t.lst --xref -o .\objs\startup_mdr1986ve8t.o --depend .\objs\startup_mdr1986ve8t.d)

@@ -1,0 +1,6 @@
+.\objs\uarts.o: Sources\uarts.c
+.\objs\uarts.o: Sources\1986ve8_lib/cm4ikmcu.h
+.\objs\uarts.o: Sources\1986ve8_lib/core_cm4.h
+.\objs\uarts.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\uarts.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\uarts.o: Sources\wdt.h

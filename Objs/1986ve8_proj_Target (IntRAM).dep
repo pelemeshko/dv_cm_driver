@@ -1,0 +1,56 @@
+Dependencies for Project '1986ve8_proj', Target 'Target (IntRAM)': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\Sources\sysinit.c)(0x6228940D)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\sysinit.o --omf_browse .\objs\sysinit.crf --depend .\objs\sysinit.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+F (.\Sources\main.c)(0x6212483A)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\main.o --omf_browse .\objs\main.crf --depend .\objs\main.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025318E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60253184)
+I (Sources\sysinit.h)(0x6212430D)
+I (Sources\eerom.h)(0x621245CF)
+I (Sources\mko.h)(0x621243AE)
+I (Sources\adc.h)(0x62124429)
+I (Sources\wdt.h)(0x62124385)
+I (Sources\uarts.h)(0x6212444A)
+I (Sources\timer.h)(0x62124536)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x60253188)
+F (.\Sources\eerom.c)(0x62124A81)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\eerom.o --omf_browse .\objs\eerom.crf --depend .\objs\eerom.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (Sources\eerom.h)(0x621245CF)
+F (.\Sources\wdt.c)(0x6212459A)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\wdt.o --omf_browse .\objs\wdt.crf --depend .\objs\wdt.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+F (.\Sources\uarts.c)(0x62124D2D)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\uarts.o --omf_browse .\objs\uarts.crf --depend .\objs\uarts.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025318E)
+I (Sources\wdt.h)(0x62124385)
+F (.\Sources\adc.c)(0x6212493A)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\adc.o --omf_browse .\objs\adc.crf --depend .\objs\adc.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (Sources\adc.h)(0x62124429)
+F (.\Sources\timer.c)(0x62124ABA)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\timer.o --omf_browse .\objs\timer.crf --depend .\objs\timer.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (Sources\timer.h)(0x62124536)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025318E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60253184)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x60253188)
+F (.\Sources\test.c)(0x62124374)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\test.o --omf_browse .\objs\test.crf --depend .\objs\test.d)
+I (Sources\1986ve8_lib/cm4ikmcu.h)(0x62125509)
+I (Sources\1986ve8_lib/core_cm4.h)(0x62125690)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+I (Sources\test.h)(0x6212428C)
+F (.\Sources\1986ve8_lib\core_cm4.c)(0x62125214)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-D__UVISION_VERSION="536" -D_RTE_ -DUSE_MDR32F8 -D_RTE_ -D_INT_RAM_-o .\objs\core_cm4.o --omf_browse .\objs\core_cm4.crf --depend .\objs\core_cm4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025318E)
+F (.\Sources\1986ve8_lib\startup_MDR1986VE8T.s)(0x621252DF)(--cpu Cortex-M4 -g --apcs=interwork -I.\RTE\_Target__IntRAM_-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Pelemeshko-OAI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "USE_MDR32F8 SETA 1" --pd "_RTE_ SETA 1"--list .\objs\startup_mdr1986ve8t.lst --xref -o .\objs\startup_mdr1986ve8t.o --depend .\objs\startup_mdr1986ve8t.d)
